@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-Windows 8 desktop interface containing the blocks of each shortcut divided by categories and colors, to see the result access [here](https://dribbble.com/)
+Windows 8 desktop interface containing the blocks of each shortcut divided by categories and colors, to see the result access [here](https://jhonywalker-pixel.github.io/windows-8-workspace-clone/)
 
 ## :computer: Languages used
 

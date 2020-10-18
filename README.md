@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="./imagens/icon-repo.png" alt="Excel Clone by Jhony Walker" width="300px" />
+    <img src="./imagens/icon-repo-windows.png" alt="Workspace Windows clone by Jhony Walker" width="300px" />
 </h1>
 
 ## :clipboard: About the project
